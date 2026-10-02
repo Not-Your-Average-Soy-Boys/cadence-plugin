@@ -8,5 +8,6 @@
   },
   "homepage": "https://support.cadence.nyasb.com/connect-cadence/",
   "mcpServers": "./.mcp.json",
-  "license": "LicenseRef-Cadence"
+  "license": "LicenseRef-Cadence",
+  "privacyPolicyUrl": "https://support.cadence.nyasb.com/privacy-policy/"
 }
