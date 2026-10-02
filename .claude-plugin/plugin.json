@@ -1,0 +1,12 @@
+{
+  "name": "cadence",
+  "version": "1.0.1",
+  "description": "Find exact evidence in your private Cadence meeting transcripts.",
+  "author": {
+    "name": "NYASB",
+    "url": "https://nyasb.com"
+  },
+  "homepage": "https://support.cadence.nyasb.com/connect-cadence/",
+  "mcpServers": "./.mcp.json",
+  "license": "LicenseRef-Cadence"
+}
